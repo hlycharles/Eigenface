@@ -1,0 +1,20 @@
+# built binaries
+build/
+
+# macOS system files
+.DS_Store
+
+# vscode settings
+.vscode
+
+# training data
+training_set/
+
+# training data parameters
+data/
+
+# trained model
+models/
+
+# input data
+input/
